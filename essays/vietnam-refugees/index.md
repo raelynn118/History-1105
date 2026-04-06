@@ -1,13 +1,13 @@
 ---
-title: "Title of HIS 1105 project"
-author: Your name
+title: "Vietnam Refugees"
+author: Raelynn Combest
 layout: scrollstory
 header-image: images/Raton_1882.jpg
 thumbnail: images/Raton_1882.jpg
 summary: One sentence summary of your project 
 ---
 
-# Title of Project
+# Vietnam Refugees
 
 Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
 100-150 words
