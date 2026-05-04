@@ -14,7 +14,7 @@ New Mexico had a small Vietnam refugee percentage because of high militarization
 
 ## Subheader 1
 
-The first wave Vietnam refugees were the most successful in settling in New Mexico. Although soon after their arrival the locals started to get upset. There were petitions that circulated in Portales, NM in May 1975 and a poll taken in Gallup May 1975 showed 54% of all Americans opposed refugees living in the states. Vietnam war veterans were angered at Vietnam refugees perceived welcome reception in the States after the war. In New Mexico the Chicano population were upset because the refugees were being accepted and given rights of citizenship much faster and with less struggle than them. There were places for refugee to go to get services in New Mexico there was a lot of help from Catholic services. People were able to find sponsors. They provided screening and helped with funding for other medical treatment. In other places like San Diego there were more places people can go for support and the support provided was of much more use. Transportation, medical, and employment services were more accessible and had more funding  in other place like San Diego..[^youchoose] 
+The first wave Vietnam refugees were the most successful in settling in New Mexico. Although soon after their arrival the locals started to get upset. There were petitions that circulated in Portales, NM in May 1975 and a poll taken in Gallup May 1975 showed 54% of all Americans opposed refugees living in the states. Vietnam war veterans were angered at Vietnam refugees perceived welcome reception in the States after the war. In New Mexico the Chicano population were upset because the refugees were being accepted and given rights of citizenship much faster and with less struggle than them. There were places for refugee to go to get services in New Mexico there was a lot of help from Catholic services. People were able to find sponsors. They provided screening and helped with funding for other medical treatment. In other places like San Diego there were more places people can go for support and the support provided was of much more use. Transportation, medical, and employment services were more accessible and had more funding  in other place like San Diego.[^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
@@ -23,7 +23,7 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
   image-path="images/Vietnameserefugeesarriving-1975.jpg"
   image-position="right"
   image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
+  caption="Vietnamese refugees arriving at Camp Pendleton, California.[Source: ARTSTOR](1975)"
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
