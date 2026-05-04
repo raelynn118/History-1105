@@ -26,11 +26,11 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
   caption="Vietnamese refugees arriving at Camp Pendleton, California.[Source: ARTSTOR](1975)"
 %}
 
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
+{% include typography/pullquote.html text="\"The military shifted from being an agent of war to one of the so-called humanitarian relief through the resettlement of refugees...\""%}
 
 You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
 
-[^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
+[^youchoose2]:Another-author-Christina-name Another-author-Juhasz-Wood-name, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (Publisher:2020), 132.
 
 ## Subheader 2
 
