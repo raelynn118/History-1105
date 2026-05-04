@@ -20,7 +20,7 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 
 
 {% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
+  image-path="images/Vietnameserefugeesarriving-1975.jpg"
   image-position="right"
   image-width="50%"
   caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
