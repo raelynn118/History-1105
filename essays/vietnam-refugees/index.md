@@ -9,7 +9,7 @@ summary: One sentence summary of your project
 
 # Vietnam Refugees
 
-New Mexico had a small Vietnam refugee percentage because of high militarization, community unrest, and little opportunity and help in New Mexico. After the United States pulled out from the Vietnam war and the war came to an end in 1975, the U.S.  agreed to admit refugees through the Indochina Migration and Refugee Assistance Act of 1975. Some refugees came to New Mexico, not knowing much about it but having people in the miliary suggest they go there. Once in New Mexico some people ignored or were upset at the refugee’s presence. This also resulted in refugees being forced to live in ran down old military housing with a lack of resources like transportation, heath services, education, food, and social services.
+New Mexico had a small Vietnam refugee percentage because of high militarization, community unrest, and little opportunity and help in New Mexico. After the United States pulled out from the Vietnam war and the war came to an end in 1975, the U.S.  agreed to admit refugees through the Indochina Migration and Refugee Assistance Act of 1975. Some refugees came to New Mexico, not knowing much about it but having their caseworkers suggest where they go there. Once in New Mexico some people ignored or were upset at the refugee’s presence. This also resulted in refugees being forced to live in ran down old military housing with a lack of resources like transportation, heath services, education, food, and social services.
 
 
 ## Subheader 1
@@ -30,7 +30,7 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 
 You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
 
-[^youchoose2]:Another-author-Christina-name Another-author-Juhasz-Wood-name, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (Publisher:2020), 132.
+[^youchoose2]:Christina Juhasz-Wood, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (The University of New Mexico:2020), 132.
 
 ## Subheader 2
 
