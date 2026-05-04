@@ -3,7 +3,7 @@ title: "Vietnam Refugees"
 author: Raelynn Combest.
 layout: scrollstory
 header-image: images/Tensions.jpg
-thumbnail: images/img.jpg
+thumbnail: images/Tensions.jpg
 summary: One sentence summary of your project 
 ---
 
