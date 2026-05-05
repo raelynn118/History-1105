@@ -64,7 +64,7 @@ New Mexico was willing to accommodate Vietnam refugees with the help of already 
 
 [^youchoose2]:Christina Juhasz-Wood, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (The University of New Mexico:2020), 132.
 
-The U.S. was involved with the Vietnam war so having the refugees go from their home country where their family and land was harm to a new land where the people who participate in the harm are highly concentrated makes it harder to settle comfortably. Once the military moved out from their base housing the refugees were placed there for housing. Many of the arrangements weren’t good going against city codes and making it hard for assimilation because the location lacked transportation, education, and other social services (Do 1996; Juhasez-Wood 2020). 
+The U.S. was involved with the Vietnam war so having the refugees go from their home country where their family and land was harm to a new land where the people who participate in the harm are highly concentrated making it harder to settle comfortably. Once the military moved out from their base housing the refugees were placed there for housing. Many of the arrangements weren’t good going against city codes and making it hard for assimilation because the location lacked transportation, education, and other social services (Do 1996; Juhasez-Wood 2020). 
 
 ## Concluding Subheader 4:
 
