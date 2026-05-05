@@ -70,7 +70,8 @@ The U.S. was involved with the Vietnam war so having the refugees go from their 
 
 The settlement of Vietnam refugees shows how history is written in an altered state. The U.S. was involved with the Vietnam War, but they also accepted Vietnam refugees so there is a complicated relationship developed between the government and the people. This teaches us how important location and community is for successful settlement. If community and education are a way for cycles to be continued within our communities how can an accommodating settlement or resettlement take place in a location like Albuquerque, New Mexico where there is high militarization? How does trust and acceptance in new places play key roles in  the assimilation and acculturation of refugee populations?
 
-<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2?accountid=14613">outheast Asian resettlement after
+**Further information:**<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2?accountid=14613">Southeast Asian resettlement after
 the Vietnam War specifically comparing San Diego and Albuquerque resettlement and
 programs. </a>
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
+
+ You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
