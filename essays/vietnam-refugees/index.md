@@ -4,10 +4,10 @@ author: Raelynn Combest.
 layout: scrollstory
 header-image: images/Tensions.jpg
 thumbnail: images/Tensions.jpg
-summary: One sentence summary of your project 
+summary: Vietnam Refugees in New Mexico and how the settlement compares to other places.
 ---
 
-# Vietnam Refugees
+# Vietnam Refugees 
 
 New Mexico had a small Vietnam refugee percentage because of high militarization, community unrest, and little opportunity and help in New Mexico. After the United States pulled out from the Vietnam war and the war came to an end in 1975, the U.S.  agreed to admit refugees through the Indochina Migration and Refugee Assistance Act of 1975. Some refugees came to New Mexico, not knowing much about it but having their caseworkers suggest they go there. Once in New Mexico some people ignored or were upset at the refugee’s presence (“Vietnam Refugee Petitions Circulated in East N.M” 1975; Do 1996). This also resulted in refugees being forced to live in ran down old military housing with a lack of resources like transportation, heath services, education, food, and social services (Juhasez-Wood 2020).
 
