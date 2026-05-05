@@ -27,7 +27,7 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 %}
 
 
-
+{% include typography/pullquote.html text="\"The military shifted from being an agent of war to one of the so-called humanitarian reliefs through the resettlement of refugees...\""%}
 [^youchoose2] 
 
 [^youchoose2]:Christina Juhasz-Wood, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (The University of New Mexico:2020), 132.
