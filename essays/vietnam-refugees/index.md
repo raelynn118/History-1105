@@ -34,14 +34,14 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 
 ## Subheader 2
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, a refugee camp in California, closed and some refugees were resettled in New Mexico the population remained low. Some of the resettled left New Mexico for California, Texas, and other states with higher Vietnamese populations. 
 
 {% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
+New Mexico didn’t have much government attention or support which lead to many longing for their families and communities resulting in secondary migration (Bryan 1990; Juhasez-Wood 2020). After great tragedy that the refugees experienced, they wanted to be close to their families and make communities where they are recognized and embraced. California had the largest Vietnamese population so that is where second migration brought many of them. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/Concerns_Raton.jpg"
+  image-path="images/1777996229068-53373b1d-0062-44e3-a797-725b1df0c9b3_1.jpg"
   image-position="left"
   image-width="70%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
