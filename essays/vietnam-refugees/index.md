@@ -34,10 +34,10 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 
 ## Subheader 2
 
-New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, a refugee camp in California, closed and some refugees were resettled in New Mexico the population remained low. Some of the resettled left New Mexico for California, Texas, and other states with higher Vietnamese populations. 
+New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, a refugee camp in California, closed and some refugees were resettled in New Mexico the population remained low. Some of the resettled left New Mexico for California, Texas, and other states with higher Vietnamese populations. New Mexico didn’t have much government attention or support which lead to many longing for their families and communities resulting in secondary migration (Bryan 1990; Juhasez-Wood 2020).
 
 {% capture Removal_Chinese_text %}
-New Mexico didn’t have much government attention or support which lead to many longing for their families and communities resulting in secondary migration (Bryan 1990; Juhasez-Wood 2020). After great tragedy that the refugees experienced, they wanted to be close to their families and make communities where they are recognized and embraced. California had the largest Vietnamese population so that is where second migration brought many of them. 
+ After great tragedy that the refugees experienced, they wanted to be close to their families and make communities where they are recognized and embraced. California had the largest Vietnamese population so that is where second migration brought many of them. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
