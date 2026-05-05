@@ -44,7 +44,7 @@ New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, 
   image-path="images/1777996229068-53373b1d-0062-44e3-a797-725b1df0c9b3_1.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption="Vietnamese population in the U.S. 1990. [Source: The New Migrants from Asia: Vietnamese in the United States, Hien Due Do] (1996, 66.)"
   text=Removal_Chinese_text 
 %}
 
