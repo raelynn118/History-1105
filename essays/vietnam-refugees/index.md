@@ -73,9 +73,9 @@ The settlement of Vietnam refugees shows how history is written in an altered st
 **Further information:**<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2?accountid=14613">Southeast Asian Refugee Resettlement in San Diego, California
 and Albuquerque, New Mexico. </a> Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and
 programs.
-<a href="https://www.jstor.org/stable/25163102?seq=1">A lesson plan
-written for educators with the intention of teaching students about Vietnam in the United
-States.</a>
-<a href="https://www.example.com">Descriptive Text</a>
+
+<a href="https://www.jstor.org/stable/25163102?seq=1">The New Migrants from Asia: Vietnamese in the United States.</a> Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
+
+<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2?accountid=14613">"Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico.</a> Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
 
  You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
