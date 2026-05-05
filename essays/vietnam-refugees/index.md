@@ -45,7 +45,7 @@ New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, 
   text=Removal_Chinese_text 
 %}
 
-## Subheader 3 
+## Albuquerque is a smaller city that could accommodate refugees
 
 New Mexico was willing to accommodate Vietnam refugees with the help of already settled refugees. Albuquerque was a smaller city where refugees should have been provided with the opportunity for self-sufficiency, independence, job opportunity, growth, and assimilation that the government aimed for (Do 1996; Juhasez-Wood 2020). However, because of Kirkland Base Albuquerque is highly militarized. 
 
@@ -64,7 +64,7 @@ New Mexico was willing to accommodate Vietnam refugees with the help of already 
 
 [^youchoose2]:Christina Juhasz-Wood, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (The University of New Mexico:2020), 132.
 
-If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
+The U.S. was involved with the Vietnam war so having the refugees go from their home country where their family and land was harm to a new land where the people who participate in the harm are highly concentrated makes it harder to settle comfortably. Once the military moved out from their base housing the refugees were placed there for housing. Many of the arrangements weren’t good going against city codes and making it hard for assimilation because the location lacked transportation, education, and other social services (Do 1996; Juhasez-Wood 2020). 
 
 ## Concluding Subheader 4:
 
