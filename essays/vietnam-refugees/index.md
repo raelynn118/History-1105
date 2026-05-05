@@ -66,8 +66,8 @@ New Mexico was willing to accommodate Vietnam refugees with the help of already 
 
 The U.S. was involved with the Vietnam war so having the refugees go from their home country where their family and land was harm to a new land where the people who participate in the harm are highly concentrated making it harder to settle comfortably. Once the military moved out from their base housing the refugees were placed there for housing. Many of the arrangements weren’t good going against city codes and making it hard for assimilation because the location lacked transportation, education, and other social services (Do 1996; Juhasez-Wood 2020). 
 
-## Concluding Subheader 4:
+## Location is important for settlement success
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+The settlement of Vietnam refugees shows how history is written in an altered state. The U.S. was involved with the Vietnam War, but they also accepted Vietnam refugees so there is a complicated relationship developed between the government and the people. This teaches us how important location and community is for successful settlement. If community and education are a way for cycles to be continued within our communities how can an accommodating settlement or resettlement take place in a location like Albuquerque, New Mexico where there is high militarization? How does trust and acceptance in new places play key roles in  the assimilation and acculturation of refugee populations?
 
 **Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
