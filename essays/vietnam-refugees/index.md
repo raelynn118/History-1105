@@ -50,19 +50,22 @@ New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, 
 
 ## Subheader 3 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+New Mexico was willing to accommodate Vietnam refugees with the help of already settled refugees. Albuquerque was a smaller city where refugees should have been provided with the opportunity for self-sufficiency, independence, job opportunity, growth, and assimilation that the government aimed for (Do 1996; Juhasez-Wood 2020). However, because of Kirkland Base Albuquerque is highly militarized. 
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/img.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="A news article where New Mexico accommodation of Vietnam refugees is talked about. Mentions of supplies, sponsors, and goals for the refugees is discussed. [Source: Albuquerque Journal] (October 18, 1975, 20.)"
   text=Chinese_leave_Raton_text 
 %}
 
 
 
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
+{% include typography/pullquote.html text="\"The military shifted from being an agent of war to one of the so-called humanitarian reliefs through the resettlement of refugees...\"" %}
+[^youchoose2] 
+
+[^youchoose2]:Christina Juhasz-Wood, *Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico* (The University of New Mexico:2020), 132.
 
 If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
