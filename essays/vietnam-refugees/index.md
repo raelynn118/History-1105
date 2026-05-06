@@ -82,10 +82,11 @@ programs.
 
 <a href="https://abqjournal.newspapers.com/image/157403885/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQwMzg4NSwiaWF0IjoxNzc0NDgxMjQxLCJleHAiOjE3NzQ1Njc2NDF9.Hcxus5RVj-vxaTiIkhTmKNjUP7yXcmW5HZH7yVbO5y4clfpga5f5mMcqTgKoDAE5jyCsj5y4gYGEtQovPuerXg">State Will Try to Accomodate More Vietnam Refugee Families.</a> An article by Winthrop Quigley for the Albuquerque Journal is written for New Mexico residents to inform them of what NM is going to do for the Vietnam Refugee community. 
 
-
 <a href="https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg87.pdf">Public Law 94-23</a> Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee
 Assistance Act of 1975.  
 
-<a href="https://abqjournal.newspapers.com/image/157638871/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzYzODg3MSwiaWF0IjoxNzczMDAxMTkxLCJleHAiOjE3NzMwODc1OTF9.9Y7El2YPz6l4S6NVZaLq6u6vfwsdj-tcL9okfPj719jEKet3pmO3EvmuGrMImypGQLLpag9beSyuGGRbk-M9Og&_gl=1%2a19gdndo%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6>Vietnam Refugee Petitions Circulated in East N.M."</a> An article in the Albuquerque journal highlighting New Mexico’s upset in hosting
-Vietnam Refugees especially after the U.S. influence in the war. 
+<a href="https://abqjournal.newspapers.com/image/157638871/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzYzODg3MSwiaWF0IjoxNzczMDAxMTkxLCJleHAiOjE3NzMwODc1OTF9.9Y7El2YPz6l4S6NVZaLq6u6vfwsdj-tcL9okfPj719jEKet3pmO3EvmuGrMImypGQLLpag9beSyuGGRbk-M9Og&_gl=1%2a19gdndo%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6">Vietnam Refugee Petitions Circulated in East N.M.>Public Law 94-23</a> Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee
+Assistance Act of 1975.  
+
+ 
 
