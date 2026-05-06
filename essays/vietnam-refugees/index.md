@@ -78,4 +78,13 @@ programs.
 
 <a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2?accountid=14613">"Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico.</a> Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
 
- You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
+<a href="https://abqjournal.newspapers.com/image/157422533/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQyMjUzMywiaWF0IjoxNzczMDAwNzgzLCJleHAiOjE3NzMwODcxODN9.3pfP1keo5NGLw0sRJ6KqzEVsZ-hRVfWE4sNfqDjL1W3X4KZrqG53fLG08jhMB90l4ORsKiamh0bcRtMVXJGZbw&_gl=1%2a1lzxcwu%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6">Journal Action Line.</a> A question in the Albuquerque Joural about what organizations are helping with Vietnam Refugee settlement.
+
+<a href=https://abqjournal.newspapers.com/image/157403885/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQwMzg4NSwiaWF0IjoxNzc0NDgxMjQxLCJleHAiOjE3NzQ1Njc2NDF9.Hcxus5RVj-vxaTiIkhTmKNjUP7yXcmW5HZH7yVbO5y4clfpga5f5mMcqTgKoDAE5jyCsj5y4gYGEtQovPuerXg>State Will Try to Accomodate More Vietnam Refugee Families</a> An article by Winthrop Quigley for the Albuquerque Journal is written for New Mexico residents to inform them of what NM is going to do for the Vietnam Refugee community. 
+
+<a href=https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg87.pdf>Public Law 94-23</a> Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee
+Assistance Act of 1975.  
+
+<a href=https://abqjournal.newspapers.com/image/157638871/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzYzODg3MSwiaWF0IjoxNzczMDAxMTkxLCJleHAiOjE3NzMwODc1OTF9.9Y7El2YPz6l4S6NVZaLq6u6vfwsdj-tcL9okfPj719jEKet3pmO3EvmuGrMImypGQLLpag9beSyuGGRbk-M9Og&_gl=1%2a19gdndo%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6>Vietnam Refugee Petitions Circulated in East N.M.</a> An article in the Albuquerque journal highlighting New Mexico’s upset in hosting
+Vietnam Refugees especially after the U.S. influence in the war. 
+
