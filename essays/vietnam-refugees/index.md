@@ -71,31 +71,40 @@ The U.S. was involved with the Vietnam war so having the refugees go from their 
 The settlement of Vietnam refugees shows how history is written in an altered state. The U.S. was involved with the Vietnam War, but they also accepted Vietnam refugees so there is a complicated relationship developed between the government and the people. This teaches us how important location and community is for successful settlement. If community and education are a way for cycles to be continued within our communities how can an accommodating settlement or resettlement take place in a location like Albuquerque, New Mexico where there is high militarization? How does trust and acceptance in new places play key roles in  the assimilation and acculturation of refugee populations?
 
 **Further information:**
+
 Bryan, Terri Galles. , 1990. "Southeast Asian Refugee Resettlement in San Diego, California
-      and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
-      142, The University of New Mexico.
-      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-thesessoutheast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
-      Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and programs.
+&nbsp and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
+&nbsp142, The University of New Mexico.
+&nbsphttps://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-thesessoutheast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
+&nbspTerri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War &nbspspecifically comparing San Diego and Albuquerque resettlement and programs.
 
 Do, Hien Duc. “The New Migrants from Asia: Vietnamese in the United States.” OAH
-      Magazine of History 10, no. 4 (1996): 61–66. http://www.jstor.org/stable/25163102. 
-      Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
+Magazine of History 10, no. 4 (1996): 61–66. http://www.jstor.org/stable/25163102.  Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
 
 Juhász-Wood, Christina. , 2020. "Contesting Historical Enchantment: Militarized Settler
-      Colonialism and Refugee Resettlement in New Mexico." Order No. 28027789: 113-
-      144, The University of New Mexico.
-      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2.
-      Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
+Colonialism and Refugee Resettlement in New Mexico." Order No. 28027789: 113-
+144, The University of New Mexico.
+https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2. Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
 
-<a href="https://abqjournal.newspapers.com/image/157422533/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQyMjUzMywiaWF0IjoxNzczMDAwNzgzLCJleHAiOjE3NzMwODcxODN9.3pfP1keo5NGLw0sRJ6KqzEVsZ-hRVfWE4sNfqDjL1W3X4KZrqG53fLG08jhMB90l4ORsKiamh0bcRtMVXJGZbw&_gl=1%2a1lzxcwu%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6">Journal Action Line.</a> A question in the Albuquerque Joural about what organizations are helping with Vietnam Refugee settlement.
+G. Ward Fenley and Louise Miller, “Journal Action Line,” Albuquerque Journal, November
+17, 1975,
+https://abqjournal.newspapers.com/image/157422533/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQyMjUzMywiaWF0IjoxNzczMDAwNzgzLCJleHAiOjE3NzMwODcxODN9.3pfP1keo5NGLw0sRJ6KqzEVsZ-hRVfWE4sNfqDjL1W3X4KZrqG53fLG08jhMB90l4ORsKiamh0bcRtMVXJGZbw&_gl=1%2a1lzxcwu%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6
+A question in the Albuquerque Joural about what organizations are helping with Vietnam Refugee settlement.
 
-<a href="https://abqjournal.newspapers.com/image/157403885/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQwMzg4NSwiaWF0IjoxNzc0NDgxMjQxLCJleHAiOjE3NzQ1Njc2NDF9.Hcxus5RVj-vxaTiIkhTmKNjUP7yXcmW5HZH7yVbO5y4clfpga5f5mMcqTgKoDAE5jyCsj5y4gYGEtQovPuerXg">State Will Try to Accomodate More Vietnam Refugee Families.</a> An article by Winthrop Quigley for the Albuquerque Journal is written for New Mexico residents to inform them of what NM is going to do for the Vietnam Refugee community. 
+Winthrop Quigley, “State Will Try to Accommodate More Vietnam Refugee Families,”
+Albuquerque Journal, October 18, 1975,
+https://abqjournal.newspapers.com/image/157403885/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQwMzg4NSwiaWF0IjoxNzc0NDgxMjQxLCJleHAiOjE3NzQ1Njc2NDF9.Hcxus5RVj-vxaTiIkhTmKNjUP7yXcmW5HZH7yVbO5y4clfpga5f5mMcqTgKoDAE5jyCsj5y4gYGEtQovPuerXg
+An article by Winthrop Quigley for the Albuquerque Journal is written for New Mexico residents to inform them of what NM is going to do for the Vietnam Refugee community. 
 
-<a href="https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg87.pdf">Public Law 94-23</a> Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee
-Assistance Act of 1975.  
+“Public Law 94-23 94th Congress an Act,” June 23, 1975,
+https://www.govinfo.gov/content/pkg/STATUTE-89/pdf/STATUTE-89-Pg87.pdf.
+Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee Assistance Act of 1975.  
 
-<a href="https://abqjournal.newspapers.com/image/157638871/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzYzODg3MSwiaWF0IjoxNzczMDAxMTkxLCJleHAiOjE3NzMwODc1OTF9.9Y7El2YPz6l4S6NVZaLq6u6vfwsdj-tcL9okfPj719jEKet3pmO3EvmuGrMImypGQLLpag9beSyuGGRbk-M9Og&_gl=1%2a19gdndo%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6">Vietnam Refugee Petitions Circulated in East N.M.</a> Public Law 94-23 is an act from congress stating that the U.S. will aid with certain migrants and refugees also know as the Indochina Migration and Refugee
-Assistance Act of 1975.  
+“Vietnam Refugee Petitions Circulated in East N.M.,” Albuquerque Journal, June 16, 1975,
+https://abqjournal.newspapers.com/image/157638871/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzYzODg3MSwiaWF0IjoxNzczMDAxMTkxLCJleHAiOjE3NzMwODc1OTF9.9Y7El2YPz6l4S6NVZaLq6u6vfwsdj-tcL9okfPj719jEKet3pmO3EvmuGrMImypGQLLpag9beSyuGGRbk-M9Og&_gl=1%2a19gdndo%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6
+An article in the Albuquerque Journal highlighting New Mexico’s upset in hosting
+Vietnam Refugees especially after the U.S. influence in the war. 
+ 
 
  
 
