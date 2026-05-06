@@ -72,15 +72,20 @@ The settlement of Vietnam refugees shows how history is written in an altered st
 
 **Further information:**
 Bryan, Terri Galles. , 1990. "Southeast Asian Refugee Resettlement in San Diego, California
-and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
-142, The University of New Mexico.
-      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
- Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and
-programs.
+      and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
+      142, The University of New Mexico.
+      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-thesessoutheast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
+      Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and programs.
 
-<a href="https://www.jstor.org/stable/25163102?seq=1">The New Migrants from Asia: Vietnamese in the United States.</a> Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
+Do, Hien Duc. “The New Migrants from Asia: Vietnamese in the United States.” OAH
+      Magazine of History 10, no. 4 (1996): 61–66. http://www.jstor.org/stable/25163102. 
+      Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
 
-<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2?accountid=14613">"Contesting Historical Enchantment: Militarized Settler Colonialism and Refugee Resettlement in New Mexico.</a> Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
+Juhász-Wood, Christina. , 2020. "Contesting Historical Enchantment: Militarized Settler
+      Colonialism and Refugee Resettlement in New Mexico." Order No. 28027789: 113-
+      144, The University of New Mexico.
+      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/contesting-historical-enchantment-militarized/docview/2452519191/se-2.
+      Christina Juhasz-Woods' 2020 paper about Vietnamese resettlement in a militarized community, New Mexico, and the implications that brings after the trauma that is inflicted post-Vietnam war.
 
 <a href="https://abqjournal.newspapers.com/image/157422533/?fcfToken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjE1NzQyMjUzMywiaWF0IjoxNzczMDAwNzgzLCJleHAiOjE3NzMwODcxODN9.3pfP1keo5NGLw0sRJ6KqzEVsZ-hRVfWE4sNfqDjL1W3X4KZrqG53fLG08jhMB90l4ORsKiamh0bcRtMVXJGZbw&_gl=1%2a1lzxcwu%2a_up%2aMQ..&gclid=CjwKCAiA-__MBhAKEiwASBmsBHYkEZaJ5XmL5Y-rsQGsHirvslwve2h3qfwWtY_ReW_3JCTSjRuZ5xoCmjEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADtl_1BN3DBW8FRHiQxSAM2RyDlA6">Journal Action Line.</a> A question in the Albuquerque Joural about what organizations are helping with Vietnam Refugee settlement.
 
