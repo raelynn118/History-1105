@@ -12,7 +12,7 @@ summary: Vietnam Refugees in New Mexico and how the settlement compares to other
 New Mexico had a small Vietnam refugee percentage because of high militarization, community unrest, and little opportunity and help in New Mexico. News article from 1975 show that some locals weren’t happy to accommodate refugees although the state was willing(“Vietnam Refugee Petitions Circulated in East N.M” 1975; Winthrop Quigley 1975). After the United States pulled out from the Vietnam war and the war came to an end in 1975, the U.S.  agreed to admit refugees through the Indochina Migration and Refugee Assistance Act of 1975. Some refugees came to New Mexico, not knowing much about it but having their caseworkers suggest they go there. Once in New Mexico some people ignored or were upset at the refugee’s presence (“Vietnam Refugee Petitions Circulated in East N.M” 1975; Do 1996). This also resulted in refugees being forced to live in ran down old military housing with a lack of resources like transportation, heath services, education, food, and social services (Juhasez-Wood 2020).
 
 
-## New Mexico was willing to accommodate Vietnam Refugees
+## New Mexico was Willing to Accommodate Vietnam Refugees
 
 The first wave Vietnam refugees were the most successful in settling in New Mexico. Although soon after their arrival the locals started to get upset. There were petitions that circulated in Portales, NM in May 1975 asking the governor to not allow Vietnam refugees in New Mexico and there was a poll taken in Gallup May 1975 that showed 54% of all Americans opposed refugees living in the states (“Vietnam Refugee Petitions Circulated in East N.M” 1975; Do 1996). Vietnam war veterans were angered at Vietnam refugees perceived welcome reception in the States after the war. In New Mexico the Chicano population were upset because the refugees were being accepted and given rights of citizenship much faster and with less struggle than them (Juhasez-Wood 2020). There were places for refugee to go to get services in New Mexico there was a lot of help from Catholic services. People were able to find sponsors. They provided screening and helped with funding for other medical treatment. In other places like San Diego there were more places people can go for support and the support provided was of much more use. Transportation, medical, and employment services were more accessible and had more funding  in other places (Bryan 1990).[^youchoose] 
 
@@ -29,7 +29,7 @@ The first wave Vietnam refugees were the most successful in settling in New Mexi
 
 
 
-## Vietnam Refugees seek community that represents and sees them
+## Vietnam Refugees Seek Community That Represents and Sees Them
 
 New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, a refugee camp in California, closed and some refugees were resettled in New Mexico the population remained low. Some of the resettled left New Mexico for California, Texas, and other states with higher Vietnamese populations. New Mexico didn’t have much government attention or support which lead to many longing for their families and communities resulting in secondary migration (Bryan 1990; Juhasez-Wood 2020).
 
@@ -45,7 +45,7 @@ New Mexico had a smaller amount of Vietnam refugees. Even after Camp Pendleton, 
   text=Removal_Chinese_text 
 %}
 
-## Albuquerque is a smaller city that could accommodate refugees
+## Albuquerque is a Smaller City That Could Accommodate Refugees
 
 New Mexico was willing to accommodate Vietnam refugees with the help of already settled refugees. Albuquerque was a smaller city where refugees should have been provided with the opportunity for self-sufficiency, independence, job opportunity, growth, and assimilation that the government aimed for (Do 1996; Juhasez-Wood 2020). However, because of Kirkland Base Albuquerque is highly militarized. 
 
@@ -66,7 +66,7 @@ New Mexico was willing to accommodate Vietnam refugees with the help of already 
 
 The U.S. was involved with the Vietnam war so having the refugees go from their home country where their family and land was harm to a new land where the people who participate in the harm are highly concentrated making it harder to settle comfortably. Once the military moved out from their base housing the refugees were placed there for housing. Many of the arrangements weren’t good going against city codes and making it hard for assimilation because the location lacked transportation, education, and other social services (Do 1996; Juhasez-Wood 2020). 
 
-## Location is important for settlement success
+## Location is Important for Settlement Success
 
 The settlement of Vietnam refugees shows how history is written in an altered state. The U.S. was involved with the Vietnam War, but they also accepted Vietnam refugees so there is a complicated relationship developed between the government and the people. This teaches us how important location and community is for successful settlement. If community and education are a way for cycles to be continued within our communities how can an accommodating settlement or resettlement take place in a location like Albuquerque, New Mexico where there is high militarization? How does trust and acceptance in new places play key roles in  the assimilation and acculturation of refugee populations?
 
