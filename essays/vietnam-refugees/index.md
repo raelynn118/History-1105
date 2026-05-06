@@ -73,10 +73,10 @@ The settlement of Vietnam refugees shows how history is written in an altered st
 **Further information:**
 
 Bryan, Terri Galles. , 1990. "Southeast Asian Refugee Resettlement in San Diego, California
-&nbsp and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
-&nbsp142, The University of New Mexico.
-&nbsphttps://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-thesessoutheast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
-&nbspTerri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War &nbspspecifically comparing San Diego and Albuquerque resettlement and programs.
+and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
+142, The University of New Mexico.
+https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-thesessoutheast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
+Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and programs.
 
 Do, Hien Duc. “The New Migrants from Asia: Vietnamese in the United States.” OAH
 Magazine of History 10, no. 4 (1996): 61–66. http://www.jstor.org/stable/25163102.  Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
