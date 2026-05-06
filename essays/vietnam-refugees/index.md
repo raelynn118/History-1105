@@ -70,8 +70,12 @@ The U.S. was involved with the Vietnam war so having the refugees go from their 
 
 The settlement of Vietnam refugees shows how history is written in an altered state. The U.S. was involved with the Vietnam War, but they also accepted Vietnam refugees so there is a complicated relationship developed between the government and the people. This teaches us how important location and community is for successful settlement. If community and education are a way for cycles to be continued within our communities how can an accommodating settlement or resettlement take place in a location like Albuquerque, New Mexico where there is high militarization? How does trust and acceptance in new places play key roles in  the assimilation and acculturation of refugee populations?
 
-**Further information:**<a href="https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2?accountid=14613">Southeast Asian Refugee Resettlement in San Diego, California
-and Albuquerque, New Mexico. </a> Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and
+**Further information:**
+Bryan, Terri Galles. , 1990. "Southeast Asian Refugee Resettlement in San Diego, California
+and Albuquerque, New Mexico." Order No. 1341857: 39-51, 65-86, 112-122 124-
+142, The University of New Mexico.
+      https://libproxy.unm.edu/login?url=https://www.proquest.com/dissertations-theses/southeast-asian-refugee-resettlement-san-diego/docview/194093804/se-2. 
+ Terri Galles Bryans' 1990 paper on Southeast Asian resettlement after the Vietnam War specifically comparing San Diego and Albuquerque resettlement and
 programs.
 
 <a href="https://www.jstor.org/stable/25163102?seq=1">The New Migrants from Asia: Vietnamese in the United States.</a> Hien Due Dos' 1996 lesson plan written for educators with the intention of teaching students about Vietnam in the United States.
